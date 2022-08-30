@@ -6,3 +6,4 @@
 <br>4. daily_a.csv - таблица ежедневных советов
 <br>5. exercise.csv - таблица упражнений
 <br>6. meditation.csv - таблица медитаций
+<br>Если вдруг появятся вопросы - пишите на почту victoriatrosko@yandex.ru
