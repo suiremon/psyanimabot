@@ -1,4 +1,3 @@
-# psyanimabot
 <h1>Анима</h1>
 <h2>Описание файлов</h2>
 <br>1. anima.ipynb - код бота (открывается в Jupyter notebook/Google colab)
